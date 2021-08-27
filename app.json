@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tipsplit",
-    "slug": "tipsplit",
+    "name": "tipping_calculator",
+    "slug": "tipping_calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
